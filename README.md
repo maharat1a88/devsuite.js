@@ -1,6 +1,3 @@
-    Floating “… button”
-* Tap → opens bottom sheet menu
-
 Menu Structure:
 
 * Inspect
